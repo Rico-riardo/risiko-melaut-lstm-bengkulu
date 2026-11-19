@@ -1,0 +1,14 @@
+# data besar: diunduh ulang dengan skrip, tidak disimpan di repositori
+01_data_mentah/*
+02_data_olahan/*
+04_hasil/*
+!*/.gitkeep
+*.nc
+*.zip
+*.keras
+# kredensial Copernicus: JANGAN pernah diunggah
+.cdsapirc
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
