@@ -1,0 +1,9 @@
+# Diuji dengan Python 3.11 (Anaconda, environment "lstm") di Windows
+cdsapi
+numpy
+pandas
+xarray
+netCDF4
+scikit-learn
+matplotlib
+tensorflow==2.21.0
